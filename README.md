@@ -1,0 +1,2 @@
+# SimpleDBmanageSystem
+一个简单的用来给execl表格上数据的python项目
