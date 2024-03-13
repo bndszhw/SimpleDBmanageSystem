@@ -9,6 +9,8 @@ rule NO3,这个类似于database的系统，并不是db，不要弄混，我觉�
 
 rule NO4,暂时没想好，反正这里应该有一个rule，anyway，如果要使用本项目请一定遵守以上全部rule，违反者自负责任
 
+哦，有bug记得联系我，可以扔到issue里面
+
 
 readme
 
